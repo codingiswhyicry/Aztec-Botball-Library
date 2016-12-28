@@ -1,3 +1,5 @@
+#include <kipr/botball.h>
+
 #ifndef azteclibrary_h
 #define azteclibrary_h
 
